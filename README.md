@@ -80,7 +80,7 @@ intern-portal/
 
 📸 Project Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 GitHub Repository:
 [https://github.com/thanu20/intern-portal](https://github.com/thanu20/intern-portal)
