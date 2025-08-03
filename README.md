@@ -81,7 +81,6 @@ intern-portal/
 📸 Project Screenshot
 
 ![Screenshot](screenshot.png)
-*(You can upload your screenshot with this same name)*
 
 GitHub Repository:
 [https://github.com/thanu20/intern-portal](https://github.com/thanu20/intern-portal)
